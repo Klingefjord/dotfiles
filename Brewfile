@@ -48,31 +48,18 @@ brew 'wget'
 brew 'yarn'
 brew 'yt-dlp/taps/yt-dlp'
 
-cask 'alfred'
-cask 'bettertouchtool'
-cask 'dash'
+
 cask 'docker'
-cask 'dropbox'
-cask 'fantastical'
-cask 'firefox'
-cask 'google-chrome'
+
+
+
+
 cask 'imageoptim'
 cask 'iterm2'
-cask 'kaleidoscope'
-cask 'kap'
-cask 'qlcolorcode'
-cask 'qlstephen'
-cask 'moom'
-cask 'netnewswire'
 cask 'notion'
-cask 'postman'
 cask 'sequel-pro'
-cask 'sidestep'
 cask 'slack'
-cask 'sourcetree'
-cask 'sublime-text'
 cask 'transmission'
-cask 'transmit'
 cask 'visual-studio-code'
 cask 'vlc'
 cask 'zoom'
@@ -88,14 +75,6 @@ cask 'font-jetbrains-mono-nerd-font'
 cask 'font-ubuntu-mono-nerd-font'
 cask 'font-ubuntu-nerd-font'
 
-mas 'Airmail', id: 918858936
 mas 'DaisyDisk', id: 411643860
-mas 'Keynote', id: 409183694
-mas 'Numbers', id: 409203825
-mas 'Pages', id: 409201541
-mas 'Pixelmator Pro', id: 1289583905
-mas 'Pocket', id: 568494494
-mas 'Poolsuite FM', id: 1514817810
 mas 'Slack', id: 803453959
-mas 'The Unarchiver', id: 425424353
 mas 'Xcode', id: 497799835
